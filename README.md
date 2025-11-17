@@ -18,5 +18,5 @@ La premiere voie utilise le SSL commandé en PWM (la detection de passage a 0 es
 
 Le logiciel de gestion est une version modifié de YARSOL . <br>
 La modification consiste principalement en un module de communication directe vers Tuya ("wifi bidirectional meter") placé dans mon tableau electrique pour acceder à la consomation de la maison.
- ![tuya meter](tuyameter.jpg)
-Le rafraississement des information de puissance se fait toutes les 3 secondes par wifi  (limite du module tuya), et ne necesssite pas l'utilisation de home assistant ou de serveur MQTT.   
+ ![tuya meter](tuyameter.jpg) <br>
+Le rafraississement des informations de puissance se fait toutes les 3 secondes par wifi  (limite du module tuya), et ne necesssite pas l'utilisation de home assistant ou de serveur MQTT.   
